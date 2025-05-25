@@ -1,0 +1,11 @@
+[package]
+name = "salary_tracker_cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+sqlx = { version = "0.6", features = ["runtime-tokio-rustls"] }
+dotenv = "0.15"
+chrono = "0.4"
+
