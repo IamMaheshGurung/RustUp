@@ -1,0 +1,9 @@
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/libencoding_index_simpchinese-6859b02943e8d99b.rmeta: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/libencoding_index_simpchinese-6859b02943e8d99b.rlib: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/encoding_index_simpchinese-6859b02943e8d99b.d: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs
+
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/lib.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/encoding-index-simpchinese-1.20141219.5/gb18030_ranges.rs:

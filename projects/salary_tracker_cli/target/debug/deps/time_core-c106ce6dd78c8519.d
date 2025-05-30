@@ -1,0 +1,10 @@
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/libtime_core-c106ce6dd78c8519.rmeta: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/convert.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/hint.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/util.rs
+
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/libtime_core-c106ce6dd78c8519.rlib: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/convert.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/hint.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/util.rs
+
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/time_core-c106ce6dd78c8519.d: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/convert.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/hint.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/util.rs
+
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/lib.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/convert.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/hint.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/time-core-0.1.4/src/util.rs:

@@ -1,0 +1,11 @@
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/libgenpdf-fd7312e3882a5e10.rmeta: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/wrap.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/elements.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/error.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/fonts.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/render.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/style.rs
+
+/Users/maheshgurung67/rust/RustUp/projects/salary_tracker_cli/target/debug/deps/genpdf-fd7312e3882a5e10.d: /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/lib.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/wrap.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/elements.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/error.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/fonts.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/render.rs /Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/style.rs
+
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/lib.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/wrap.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/elements.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/error.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/fonts.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/render.rs:
+/Users/maheshgurung67/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/genpdf-0.2.0/src/style.rs:
