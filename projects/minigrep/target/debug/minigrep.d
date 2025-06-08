@@ -1,0 +1,1 @@
+/Users/maheshgurung67/rust/RustUp/projects/minigrep/target/debug/minigrep: /Users/maheshgurung67/rust/RustUp/projects/minigrep/src/lib.rs /Users/maheshgurung67/rust/RustUp/projects/minigrep/src/main.rs
